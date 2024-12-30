@@ -4,13 +4,13 @@
 
 ;; Author           : Wilhelm H Kirschbaum
 ;; Version          : 1.0
-;; URL              : https://github.com/wkirschbaum/elixir-developer-mode
+;; URL              : https://github.com/wkirschbaum/elixir-emacs
 ;; Package-Requires : ((emacs "30.1"))
 ;; Created          : December 2024
 ;; Keywords         : elixir languages tree-sitter
 
 
-;; Copyright (C) 2024-2025 Wilhelm H Kirschbaum
+;; Copyright (C) 2024 Wilhelm H Kirschbaum
 
 ;; Author: Wilhelm H Kirschbaum <wkirschbaum@gmail.com>
 ;; Created: December 2024
@@ -29,13 +29,7 @@
 ;;  You should have received a copy of the GNU General Public License
 ;;  along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
-
 ;;; Commentary:
-
-;; This package defines elixir-ts-mode which is a major mode for editing
-;; Elixir and Heex files.
-
-;; Features
 
 ;;; Code:
 
