@@ -2,6 +2,12 @@
 
 ## Installation
 
+### Requirements
+
+You need Emacs 30+ with tree-sitter support.  You can read more about tree-sitter support here: https://www.masteringemacs.org/article/how-to-get-started-tree-sitter. 
+
+Language grammars will automatically be installed on initialization if you have a c compiler available.
+
 ### To use as your main config
 
 - Ensure you backup and remove `.emacs` and `.config/emacs` if present. 
